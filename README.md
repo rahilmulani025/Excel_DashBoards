@@ -1,6 +1,7 @@
-# 🚀 Company Production Analysis Dashboard (Excel)
-
-> **Turning raw data into meaningful business insights using Microsoft Excel**
+<h1 align="center">🚀 Company Production Analysis Dashboard (Excel)</h1>
+<p align="center">
+Turning raw data into meaningful business insights using Microsoft Excel
+</p>
 
 ---
 
